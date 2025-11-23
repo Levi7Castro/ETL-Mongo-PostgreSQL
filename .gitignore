@@ -1,0 +1,4 @@
+# Arquivos que NÃO irão para o GitHub
+.env
+*.ipynb
+v.ocorrencia.json
